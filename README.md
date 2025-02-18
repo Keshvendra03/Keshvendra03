@@ -37,6 +37,6 @@ Soft Skills
 
 
 
-<p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=keshvendra03&show_icons=true&locale=en" alt="keshvendra03" /></p>
+<p>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=keshvendra03&show_icons=true&locale=en" alt="keshvendra03" /></p>
 
 <p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=keshvendra03&" alt="keshvendra03" /></p>
