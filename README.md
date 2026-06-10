@@ -22,15 +22,18 @@
 * 📍 **Location:** Stuttgart, Germany.
 
 ---
+### 🏆 Featured Engineering & Research Projects
 
-### 🏆 Featured Engineering Projects
+* 🔋 **[Parallel Mild-Hybrid Energy Management System (EMS)](Paste_Your_Link_Here_Tomorrow)** * *Tech:* MATLAB/Simulink, Rule-based Control
+  * [cite_start]*Impact:* Led a 3-engineer team to design an EMS strategy that reduced fuel consumption by 26.04% on the NEDC cycle and 28% on the FTP-75 cycle[cite: 43]. [cite_start]Won 1st place among 24 competing teams[cite: 44].
 
-* **[RL for Off-Road Energy Management](Link_To_Your_Repo)** * *Tech:* Deep RL (DDPG, TD3, SAC), MATLAB Simscape, Linux HPC, GitLab
-  * *Impact:* Automated engine and milling-drum RPM control under dynamic loads to replace manual operator mode-setting.
-* **[Parallel Mild-Hybrid Energy Management System (EMS)](Link_To_Your_Repo)** * *Tech:* MATLAB/Simulink, Rule-based Control
-  * *Impact:* Led a 3-engineer team to design an EMS strategy that reduced fuel consumption by 28% (FTP-75 cycle), winning 1st place among 24 competing teams.
-* **[ADAS Function Validation (ACC, LDW, Parking Assist)](Link_To_Your_Repo)** * *Tech:* MATLAB/Simulink, MIL/SIL, Model-Based Design
-  * *Impact:* Built a reusable master ADAS test library, achieving 100% model coverage across all ADAS components.
+* 🔒 **Off-Road Commercial Vehicle Energy Management** *(Confidential Master's Thesis)*
+  * [cite_start]*Tech:* Deep RL (DDPG, TD3, SAC), MATLAB Simscape, Linux HPC, GitLab [cite: 17, 18, 20]
+  * [cite_start]*Impact:* Integrated actor-critic architecture into a Simscape model to automate engine and milling-drum RPM control under dynamic loads, replacing manual operator mode-setting[cite: 17]. 
+
+* 🔒 **ADAS Function Validation (ACC, LDW, Parking Assist)** *(Internal Industry Project)*
+  * [cite_start]*Tech:* MATLAB/Simulink, MIL/SIL, Model-Based Design [cite: 35, 36]
+  * [cite_start]*Impact:* Achieved 100% model coverage across all ADAS components by designing targeted MIL and SIL test cases[cite: 37]. [cite_start]Reduced test-setup overhead by building a version-controlled master ADAS test library[cite: 38].
 
 ---
 
