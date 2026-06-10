@@ -25,15 +25,15 @@
 ### 🏆 Featured Engineering & Research Projects
 
 * 🔋 **[Parallel Mild-Hybrid Energy Management System (EMS)](Paste_Your_Link_Here_Tomorrow)** * *Tech:* MATLAB/Simulink, Rule-based Control
-  * [cite_start]*Impact:* Led a 3-engineer team to design an EMS strategy that reduced fuel consumption by 26.04% on the NEDC cycle and 28% on the FTP-75 cycle[cite: 43]. [cite_start]Won 1st place among 24 competing teams[cite: 44].
+  * *Impact:* Led a 3-engineer team to design an EMS strategy that reduced fuel consumption by 26.04% on the NEDC cycle and 28% on the FTP-75 cycle. Won 1st place among 24 competing teams.
 
 * 🔒 **Off-Road Commercial Vehicle Energy Management** *(Confidential Master's Thesis)*
-  * [cite_start]*Tech:* Deep RL (DDPG, TD3, SAC), MATLAB Simscape, Linux HPC, GitLab [cite: 17, 18, 20]
-  * [cite_start]*Impact:* Integrated actor-critic architecture into a Simscape model to automate engine and milling-drum RPM control under dynamic loads, replacing manual operator mode-setting[cite: 17]. 
+  * *Tech:* Deep RL (DDPG, TD3, SAC), MATLAB Simscape, Linux HPC, GitLab 
+  * *Impact:* Integrated actor-critic architecture into a Simscape model to automate engine and milling-drum RPM control under dynamic loads, replacing manual operator mode-setting. 
 
 * 🔒 **ADAS Function Validation (ACC, LDW, Parking Assist)** *(Internal Industry Project)*
-  * [cite_start]*Tech:* MATLAB/Simulink, MIL/SIL, Model-Based Design [cite: 35, 36]
-  * [cite_start]*Impact:* Achieved 100% model coverage across all ADAS components by designing targeted MIL and SIL test cases[cite: 37]. [cite_start]Reduced test-setup overhead by building a version-controlled master ADAS test library[cite: 38].
+  * *Tech:* MATLAB/Simulink, MIL/SIL, Model-Based Design 
+  * *Impact:* Achieved 100% model coverage across all ADAS components by designing targeted MIL and SIL test cases[cite: 37]. [cite_start]Reduced test-setup overhead by building a version-controlled master ADAS test library.
 
 ---
 
